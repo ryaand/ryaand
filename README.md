@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaand&include_all_commits=true&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=2adfc0&text_color=9fb0c3&cache_seconds=1)](https://github.com/ryaand/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaand&include_all_commits=true&theme=github_dark&layout=compact&hide_border=true&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
